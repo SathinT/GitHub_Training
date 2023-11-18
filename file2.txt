@@ -1,7 +1,5 @@
 hello World
 
-sathin thenuja1
+sathin thenuja
 
-signup issue
-
-merge
+edited in github
