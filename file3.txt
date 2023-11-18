@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 feature 1
 
 master edit
+=======
+feature 1
+>>>>>>> feature/one
